@@ -2,7 +2,7 @@ class BdyMaster < Formula
   desc "Buddy cli"
   homepage "https://buddy.works"
   url "https://es.buddy.works/bdy/master/1.10.7/darwin-arm64.tar.gz"
-  sha256 "45f0446ee9b3c16347a347449297a5e9837287543376407ca973b86bc54bab3e"
+  sha256 "8b4af03dec92bea3ab1cba8526e4f27de546a4bf72edfab661db04bb86b3db51"
   version "1.10.7"
   def install
     bin.install "bdy"
