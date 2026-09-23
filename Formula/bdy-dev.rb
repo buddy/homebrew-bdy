@@ -1,9 +1,9 @@
 class BdyDev < Formula
   desc "Buddy cli"
   homepage "https://buddy.works"
-  url "https://es.buddy.works/bdy/dev/1.25.12/darwin-arm64.tar.gz"
-  sha256 "cc70f2447a7c3ee72c620d2fb6dd98aff6e2264154c6b96284402a7698cc2ee9"
-  version "1.25.12"
+  url "https://es.buddy.works/bdy/dev/1.25.13/darwin-arm64.tar.gz"
+  sha256 "b659bc791d49d51d124e0eb88c7b9e423925a31b88bd9b557b15b3e32010b6a2"
+  version "1.25.13"
   def install
     bin.install "bdy"
   end
